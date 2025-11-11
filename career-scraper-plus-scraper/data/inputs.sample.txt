@@ -1,0 +1,2 @@
+# Sample input file for the scraper
+# Add your start URLs or domains here.
