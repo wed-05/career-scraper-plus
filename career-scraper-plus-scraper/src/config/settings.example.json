@@ -1,0 +1,6 @@
+{
+    "providers": ["SmartRecruiters", "Greenhouse", "Lever", "Personio", "Workable", "Recruitee", "Workday"],
+    "max_results": 1000,
+    "delay": 2,
+    "proxy": "https://proxy.example.com"
+}
