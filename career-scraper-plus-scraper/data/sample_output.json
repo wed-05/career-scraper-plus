@@ -1,0 +1,13 @@
+[
+    {
+        "provider": "SmartRecruiters",
+        "job_listings": [
+            {
+                "title": "Software Engineer at SmartRecruiters",
+                "location": "Remote",
+                "id": "12345",
+                "url": "https://smartrecruiters.com/job/12345"
+            }
+        ]
+    }
+]
